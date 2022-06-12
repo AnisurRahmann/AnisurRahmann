@@ -25,7 +25,7 @@ Hi there, I'm an [INTP-A](https://www.16personalities.com/intp-personality), bre
       "styling": ["emotion", "styled-components", "tailwind-css", "CSS3", "sass"],
       "component-library": ["chakra-ui", "headless-ui"],
       "animation": ["framer-motion"],
-      "Data base": ["mysql", "mongoDB", "PostgreSQL"],
+      "data-base": ["mysql", "mongoDB", "PostgreSQL"],
       "backend": ["NestJs", "serverless-stack", "prisma"],
       "web3": ["web3-react"],
   },
