@@ -18,17 +18,18 @@ Hi there, I'm an [INTP-A](https://www.16personalities.com/intp-personality), bre
 ```json
 {
   "Actively working with": {
-      "lang": ["typeScript", "python"],
+      "lang": ["javaScript", "typeScript", "python"],
       "frontend": ["react", "next", "svelte"],
       "state-management": ["recoil", "jotai", "redux"],
       "data-fetching": ["axios", "react-query", "swr"],
       "styling": ["emotion", "styled-components", "tailwind-css", "CSS3", "sass"],
       "component-library": ["chakra-ui", "headless-ui"],
       "animation": ["framer-motion"],
+      "Data base": ["mysql", "mongoDB", "PostgreSQL"],
       "backend": ["NestJs", "serverless-stack", "prisma"],
-      "web3": ["web3-react", "@celo-tools/use-contractkit", "@celo/contractkit"],
+      "web3": ["web3-react"],
   },
-  "Previously worked with": ["Flask", "SQL", "PHP", "CYPRESS"],
+  "Previously worked with": ["Flask", "FASTAPI", "SQL", "PHP", "CYPRESS"],
 }
 ```
 
