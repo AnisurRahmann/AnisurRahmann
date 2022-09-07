@@ -9,7 +9,7 @@ Making the web look cooler, one commit at a time!
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](www.linkedin.com/in/anisur-rahmann)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:pshakilwizard@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-Hi there, I'm an [INTP-A](https://www.16personalities.com/intp-personality), brewing web applications with **_Js, Python, and Coffee_**. Currently working **As a Software Backend Enginner [@Gerald(YC)](https://joingerald.com/)** .I've previously worked with a few **_YC startups_** on their products: [ [Replo](https://www.replo.app/), [Osmind](https://www.osmind.org/),  [First Delivery](https://firstdelivery.com/) ].
+Hi there, I'm an [INTP-A](https://www.16personalities.com/intp-personality), brewing web applications with **_Js, Python, and Coffee_**. Currently working **As a Backend Software Enginner [@Gerald(YC)](https://joingerald.com/)** .I've previously worked with a few **_YC startups_** on their products: [ [Replo](https://www.replo.app/), [Osmind](https://www.osmind.org/),  [First Delivery](https://firstdelivery.com/) ].
 
 ### Tech Stacks I've worked with
 
