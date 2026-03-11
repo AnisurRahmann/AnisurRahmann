@@ -1,45 +1,83 @@
-<!-- [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Geektrovert&&show_icons=true&theme=tokyonight&count_private=true" alt="Geektrovert's Github Stats"/>](https://github.com/Geektrovert) -->
+# 👋 Hi, I'm Shakil — Fullstack AI Engineer
 
-# 👋 Hi, Shakil here!
+I build **production-grade AI Agents, Agentic Systems, and RAG Pipelines** that drive real business outcomes — not just demos.
 
-Making the web look cooler, one commit at a time!
+> Fullstack AI Engineer | AI Agents & Agentic Systems | RAG Pipelines | LLM Integration | YC (Gerald W21)
 
-> Software Engineer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil22)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arshakil.com-00C853?style=flat&logo=safari&logoColor=white)](https://arshakil.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pshakilwizard@gmail.com)
+[![Toptal](https://img.shields.io/badge/Toptal-Top_3%25-204ECF?style=flat&logo=toptal&logoColor=white)](https://www.toptal.com/resume/anisur-rahman)
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](www.linkedin.com/in/anisur-rahmann)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:pshakilwizard@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+---
 
-Hi there, I'm an [INTP-A](https://www.16personalities.com/intp-personality), brewing web applications with **_Js, Python, and Coffee_**. Currently working **As a Backend Software Engineer [@Gerald(YC)](https://joingerald.com/)** .I've previously worked with a few **_YC startups_** on their products: [ [Replo](https://www.replo.app/), [Osmind](https://www.osmind.org/),  [First Delivery](https://firstdelivery.com/) ].
+### What I Build
 
-### Tech Stacks I've worked with
-
-*I'm working full-stack, but heavily focused on front-end. Currently learning web3 stuff.*
-
-```json
-{
-  "Actively working with": {
-      "lang": ["javaScript", "typeScript", "python"],
-      "frontend": ["react", "next", "svelte"],
-      "state-management": ["recoil", "jotai", "redux"],
-      "data-fetching": ["axios", "react-query", "swr"],
-      "styling": ["emotion", "styled-components", "tailwind-css", "CSS3", "sass"],
-      "component-library": ["chakra-ui", "headless-ui"],
-      "animation": ["framer-motion"],
-      "data-base": ["mysql", "mongoDB", "PostgreSQL"],
-      "backend": ["NestJs", "serverless-stack", "prisma"],
-      "web3": ["web3-react"],
-  },
-  "Previously worked with": ["Flask", "FASTAPI", "SQL", "PHP", "CYPRESS"],
-}
+```
+AI Agents & Agentic Systems    →  Autonomous workflows using LangChain, LangGraph
+RAG Pipelines                  →  Intelligent search, document processing, knowledge bases
+LLM-Powered Automation         →  Content engines, NL interfaces, AI cost optimization
+Full-Stack AI Products         →  Python/FastAPI + React/Next.js with AI at the core
 ```
 
-### Things you might wanna know
+### Impact at Gerald (YC W21) — 3+ Years
 
-- 🔭 <b>Working with:</b> Mentioned above **↑**
-- 🌱 <b>Getting better at:</b> Mentoring + Leading a team, Managing products
-- 🤔 <b>Exploring:</b> Meta-programming, generative UIs
-- ⚗️ <b>Experimenting on:</b> Next, ORM, Load balancing
-- 💬 <b>Ask me about:</b> CS, Music, Startup ideas
+- 🤖 Built **AI content engine** generating 2,500+ SEO posts/hour → 40% conversion lift, $96K/yr saved
+- 🧠 Deployed **AI Slack Agents** with natural language → Redshift queries, instant business metrics
+- 💰 Engineered **AI-driven cost optimization** → 75% Plaid cost reduction, **$900K/yr saved**
+- ⚡ Built **AI support automation** → 80% reduction in engineering support time
+- 🛒 Integrated Amazon via Zinc API → **$1M monthly order value**
 
+---
 
-### Happy coding!
+### 🔧 Tech Stack
+
+**AI/LLM:** `LangChain` `LangGraph` `Amazon Bedrock` `Claude API` `OpenAI API` `RAG` `Prompt Engineering` `AI Agents`
+
+**Backend:** `Python` `FastAPI` `Flask` `Node.js` `TypeScript` `NestJS` `Express`
+
+**Frontend:** `React` `Next.js` `React Native`
+
+**Data:** `PostgreSQL` `MongoDB` `Amazon Redshift` `MySQL`
+
+**Cloud & DevOps:** `AWS (Lambda, S3, Bedrock, Serverless)` `Docker` `Vercel` `Railway` `CI/CD`
+
+**Observability:** `New Relic` `Datadog`
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **AI SEO Content Engine** | Production system generating 2,500+ SEO posts/hr. Contributed to $1M+ monthly GMV | Amazon Bedrock, Gemini, Python, FastAPI |
+| **AI Slack Agents** | Natural language interface to Redshift data warehouse for instant business metrics | AI Agents, NLP, Slack API, Python |
+| **AICP** | AI Communication Protocol — 5-layer wire-format compression for multi-agent LLM systems | Protocol Design, Python SDK |
+| **Foxreach** | AI-powered company research & outreach agent with personalized message generation | AI Agents, Web Scraping, LLM |
+| **Tabsense** | AI learning coach agent built with LangGraph for pattern analysis & personalized coaching | Claude API, LangGraph, AI Agents |
+| **create-mvpkit** | CLI tool automating full-stack MVP setup in <2 min (FastAPI + Next.js + deploy) | Python, FastAPI, Next.js, DevOps |
+
+---
+
+### 🌱 Currently
+
+- Building AI agent infrastructure and agentic systems
+- Exploring inter-agent communication protocols (AICP)
+- Open to **AI engineering contracts** and **full-time roles**
+- Relocating to the **UK**
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnisurRahmann&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisurRahmann&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let's build something that ships.</b><br>
+  <a href="https://arshakil.com">arshakil.com</a> · <a href="https://www.linkedin.com/in/shakil22">LinkedIn</a> · <a href="mailto:pshakilwizard@gmail.com">Email</a>
+</p>
