@@ -66,16 +66,7 @@ Full-Stack AI Products         →  Python/FastAPI + React/Next.js with AI at th
 - Open to **AI engineering contracts** and **full-time roles**
 - Relocating to the **UK**
 
----
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnisurRahmann&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisurRahmann&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9" />
-</p>
-
----
 
 <p align="center">
   <b>Let's build something that ships.</b><br>
