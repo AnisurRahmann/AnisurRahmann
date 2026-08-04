@@ -26,7 +26,7 @@ Full-Stack AI Products         →  Python/FastAPI + React/Next.js with AI at th
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **[llm-wiki-kit](https://github.com/AnisurRahmann/llm-wiki-kit)** ⭐ | Claude Code skill that maintains a self-building Obsidian knowledge base: auto-ingests tools, repos, and articles, cross-references pages, and lints the graph. An implementation of Karpathy's LLM knowledge-base idea. | Claude Code Skills, Shell, Obsidian |
+| **[llm-wiki-kit](https://github.com/AnisurRahmann/llm-wiki-kit)** | Claude Code skill that maintains a self-building Obsidian knowledge base: auto-ingests tools, repos, and articles, cross-references pages, and lints the graph. An implementation of Karpathy's LLM knowledge-base idea. | Claude Code Skills, Shell, Obsidian |
 | **[Call Copilot](https://github.com/AnisurRahmann/call-copilot)** | Local-first meeting recorder and transcriber for macOS. Taps system audio via Core Audio process taps, runs Whisper on-device, and turns calls into searchable markdown notes. No cloud, no bots joining your meeting. | Python, Core Audio, faster-whisper, CLI |
 | **AICP** | AI Communication Protocol: a 5-layer wire format that compresses inter-agent messages in multi-agent LLM systems. | Protocol design, Python SDK |
 | **[create-mvpkit](https://github.com/AnisurRahmann/create-mvpkit)** | CLI that scaffolds and deploys a full-stack MVP in under 2 minutes: FastAPI backend, Next.js frontend, Railway and Vercel wired up. | Python, FastAPI, Next.js, DevOps |
